@@ -1,0 +1,35 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "PR Report",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "PR Report"
+  },
+  "ui5AppDetails": {
+    "appId": "zmmprreport"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_2BC164697A422F7010865A61177DB4C36157E122_TM",
+    "semanticObject": "zmmprreport",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_2BC164697A422F7010865A61177DB4C36157E122_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "PR Report",
+        "subtitle": "MM"
+      }
+    }
+  ]
+}

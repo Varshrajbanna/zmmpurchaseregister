@@ -1,0 +1,4 @@
+@EndUserText.label: 'ZMM_PR_REPORT_SER_DEF'
+define service ZMM_PR_REPORT_SER_DEF {
+  expose ZMM_PR_REPORT_CDS;
+}
