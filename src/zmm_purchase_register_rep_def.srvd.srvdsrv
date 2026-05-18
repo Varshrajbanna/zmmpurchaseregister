@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition For Purchase Register Report'
+define service ZMM_PURCHASE_REGISTER_REP_DEF {
+  expose ZMM_PURCHASE_REGISTER_CDS;
+}
